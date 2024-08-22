@@ -1,14 +1,5 @@
 # Simon Game
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/ShanedraSingh">
-  <img src="https://profile-counter.glitch.me/Simon-Say-Game/count.svg" />
-  </a>
-</p>
-
-
 ## Description
 
 The Simon Game is a classic electronic memory game that challenges players to repeat a growing sequence of colors and sounds. Originating from the 1978 arcade game by Ralph H. Baer and Howard J. Morrison, Simon has become a beloved game for all ages.
