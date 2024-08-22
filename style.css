@@ -1,0 +1,123 @@
+body{
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+.btn{
+    height: 8rem;
+    width: 8rem;
+    border-radius: 20%;
+    border: 10px solid rgba(33, 33, 33, 0.564);
+    margin: 2rem;
+    padding: 1em;
+    font-weight: 800;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 10px rgb(255, 255, 255);
+
+}
+.btn>p{
+    font-size: 2rem;
+}
+.red, .green{
+    margin-bottom: 4rem !important;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    
+    /* position: relative;
+    top: 50px; */
+}
+.red{
+    background-color: rgb(244, 5, 148);
+}
+.yellow{
+    background-color: rgb(105, 101, 55);
+}
+.green{
+    background-color:maroon;
+}
+.purple{
+    background-color: rgba(220, 162, 13, 0.959);
+}
+.flash{
+    background-color: rgba(0, 0, 0, 0.442);
+    box-shadow: 2px 2px 10px red !important;
+}
+.userFlash{
+    background-color:blue;
+    box-shadow: none !important;
+
+}
+@media (max-width: 524px) {
+    .btn{
+        height: 5rem;
+        width: 5rem;
+        border-radius: 20%;
+        border: 10px solid rgba(33, 33, 33, 0.564);
+        margin: 1.4rem;
+        padding: .5em;
+        /* box-shadow: 2px 2px 10px rgb(255, 255, 255); */
+
+    }
+    .btn>p{
+        font-size: 1.5rem;
+    }
+    .red, .green{
+        margin-bottom: 2.48em !important;    
+    }
+}
+.start{
+    height: 2rem;
+    width: 6rem;
+    background-color: rgb(1, 5, 253);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 251, 251);
+    border-radius: 10px;
+    font-size: 1.1rem;
+    box-shadow: 0px 0px 20px rgb(170, 170, 170);
+}
+.start:hover{
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+.level{
+    height: 35px;
+    font-size: 1.3rem;
+}
+
+.highscore{
+    font-size: 1.8rem;
+    color: green;
+    height: 2rem;
+    line-height: 20px;
+}
+.Gname{
+    text-decoration: underline;
+    line-height: 20px;
+}
+audio{
+    display: none;
+}
+.rule{
+    padding: .25rem .75rem;
+    margin: 10px;
+    background-color: rgb(16, 113, 165);
+    color: white;
+    font-size: 1.1rem;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.rule:hover{
+    box-shadow: 0px 0px 3px rgb(255, 255, 255);
+}
+.rule-body{
+    padding: 1.5rem;
+}
+.rule-body h3{
+    text-decoration: underline;
+}
