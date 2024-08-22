@@ -38,7 +38,7 @@ To play the Simon Game on your local machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ShanedraSingh/Simon-Say-Game.git
+   https://github.com/Khushal41/Simon-Say-Game.git
 
 2. Navigate to the project directory:
 
