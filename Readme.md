@@ -4,6 +4,9 @@
 
 The Simon Game is a classic electronic memory game that challenges players to repeat a growing sequence of colors and sounds. Originating from the 1978 arcade game by Ralph H. Baer and Howard J. Morrison, Simon has become a beloved game for all ages.
 
+## Live Demo 🚀
+You can play the game directly from here: [Simon-Say-Game ](https://khushal41.github.io/Simon-Say-Game/)
+
 ## How It Works
 
 1. **Gameplay**:
